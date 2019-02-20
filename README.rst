@@ -4,8 +4,8 @@ Eve Auth JWT's fork
 .. image:: https://img.shields.io/pypi/v/eve-auth-jwt-fork.svg
     :target: https://pypi.python.org/pypi/eve-auth-jwt-fork
 
-.. image:: https://travis-ci.org/rs/eve-auth-jwt.svg?branch=master
-    :target: https://travis-ci.org/rs/eve-auth-jwt
+.. image:: https://travis-ci.org/xdtianyu/eve-auth-jwt.svg?branch=master
+    :target: https://travis-ci.org/xdtianyu/eve-auth-jwt
 
 An OAuth 2 JWT token validation module for `Eve <http://python-eve.org>`_.
 
