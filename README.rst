@@ -1,8 +1,8 @@
-Eve Auth JWT
+Eve Auth JWT's fork
 ============
 
-.. image:: https://img.shields.io/pypi/v/eve-auth-jwt.svg
-    :target: https://pypi.python.org/pypi/eve-auth-jwt
+.. image:: https://img.shields.io/pypi/v/eve-auth-jwt-fork.svg
+    :target: https://pypi.python.org/pypi/eve-auth-jwt-fork
 
 .. image:: https://travis-ci.org/rs/eve-auth-jwt.svg?branch=master
     :target: https://travis-ci.org/rs/eve-auth-jwt
@@ -14,7 +14,7 @@ Installation
 
 To install eve-auth-jwt, simply:
 
-    $ pip install eve-auth-jwt
+    $ pip install eve-auth-jwt-fork
 
 At Eve initialization::
 
