@@ -10,7 +10,7 @@ with open('README.rst', 'r') as f:
 
 setup(
     name='eve-auth-jwt-fork',
-    version='1.2.1',
+    version='1.2.2',
     description='Eve JWT authentication, rs/eve-auth-jwt\'s fork.',
     long_description=readme,
     author='Olivier Poitrey',

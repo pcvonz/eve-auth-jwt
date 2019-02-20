@@ -1,5 +1,5 @@
 Eve Auth JWT's fork
-============
+===================
 
 .. image:: https://img.shields.io/pypi/v/eve-auth-jwt-fork.svg
     :target: https://pypi.python.org/pypi/eve-auth-jwt-fork
